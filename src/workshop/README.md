@@ -39,7 +39,7 @@ support the best model in production.
 - [Part 4: Continuous integration (CI)](documents/part_4.md)
 - [Part 5: Continuous deployment (CD)](documents/part_5.md) 
 - Part 6: Observability 
-
+- TEST
 ## Repo Structure
 > Note: This is the repository file structure from the repository root.
 - `README.md` > Core README for the repository
